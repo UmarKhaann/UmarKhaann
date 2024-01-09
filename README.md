@@ -18,8 +18,6 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman&perline=5)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=UmarKhaann&show_icons=true&locale=en&layout=compact" alt="UmarKhaann" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UmarKhaann&show_icons=true&locale=en" alt="UmarKhaann" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UmarKhaann&" alt="UmarKhaann" /></p>
