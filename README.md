@@ -21,7 +21,7 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman&perline=5)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmarKhaann&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmarKhaann&layout=compact&theme=dark)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UmarKhaann&theme=dark" alt="UmarKhaann" /></p>
 
