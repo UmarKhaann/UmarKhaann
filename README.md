@@ -9,6 +9,7 @@
   
 ### Connect with me:
 <div id="badges">
+ <a href="https://linkedin.com/umar-khaannn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mirza azmathullah" height="30" width="40" /></a>
   <a href="https://github.com/umarkhaann">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
