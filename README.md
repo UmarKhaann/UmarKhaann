@@ -26,7 +26,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UmarKhaann&theme=dark" alt="UmarKhaann" /></p>
 
-![Umar khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmarKhaann&show_icons=true&theme=dark)
+![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmarKhaann&show_icons=true&theme=dark)
+![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmarKhaann&show_icons=true&theme=radical)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
