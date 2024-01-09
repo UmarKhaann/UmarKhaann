@@ -18,11 +18,12 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman&perline=5)](https://skillicons.dev)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmarKhaann&theme=dark)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UmarKhaann&theme=dark" alt="UmarKhaann" /></p>
 
 ![Umar khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmarKhaann&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmarKhaann&theme=dark)
 
 
 <br>
