@@ -23,9 +23,19 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmarKhaann&theme=dark)
 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UmarKhaann&theme=dark" alt="UmarKhaann" /></p>
 
 ![Umar khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmarKhaann&show_icons=true&theme=dark)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=umarkhaann&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
 
