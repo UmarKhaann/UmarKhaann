@@ -25,6 +25,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UmarKhaann&theme=dark" alt="UmarKhaann" /></p>
 
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65bde3610c5481228383f44f?variant=dark&roadmaps=flutter%2Cbackend" alt="roadmap.sh"/></a>
+
 ![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmarKhaann&show_icons=true&theme=dark)
 
 ### ✍️ Random Dev Quote
