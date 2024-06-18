@@ -19,7 +19,7 @@
 </p>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,github,git,postman&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,django,github,git,postman&perline=6)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmarKhaann&layout=compact&theme=dark)
 
